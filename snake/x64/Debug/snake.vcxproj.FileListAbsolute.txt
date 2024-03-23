@@ -1,0 +1,2 @@
+C:\Users\prisc\Documents\Coded games\snake\snake\x64\Debug\snake.exe
+H:\de_salvat\Coded games\snake\snake\x64\Debug\snake.exe

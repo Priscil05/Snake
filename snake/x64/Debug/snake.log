@@ -1,0 +1,4 @@
+﻿  snake.cpp
+H:\de_salvat\Coded games\snake\snake\snake.cpp(20,13): warning C4101: 'mar_h': unreferenced local variable
+H:\de_salvat\Coded games\snake\snake\snake.cpp(20,6): warning C4101: 'mar_w': unreferenced local variable
+  snake.vcxproj -> H:\de_salvat\Coded games\snake\snake\x64\Debug\snake.exe
