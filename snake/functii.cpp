@@ -1,10 +1,4 @@
-#include <iostream>
-#include <stdlib.h>
-#include <conio.h>
-#include <time.h>
 #include "Header.h"
-
-using namespace std;
 
 bool gOVR = 1;
 char tasta;

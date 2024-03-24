@@ -1,5 +1,11 @@
-//#pragma once
+#pragma once
+#include <SDL.h>
+#include <iostream>
+#include <time.h>
+#include <Windows.h>
+#include <conio.h>
 
+using namespace std;
 #define N 20
 
 extern bool gOVR;
@@ -17,6 +23,8 @@ struct MAR {
 	int height;
 	int width;
 };
+
+
 
 char** allocateBoard();
 void initBoard(char**& Board);

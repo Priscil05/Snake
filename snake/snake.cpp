@@ -1,12 +1,6 @@
-#include <iostream>
-#include <time.h>
-#include <Windows.h>
-#include <conio.h>
 #include "Header.h"
 
-using namespace std;
-
-int main()
+int main(int argc, char* argv[])
 {
 
 	char Y;
